@@ -2,4 +2,4 @@
 ## Heading 2
 ### This is to test the types of headings
 
-**This is typing in bold
+**This is typing in bold**
